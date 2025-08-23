@@ -1,8 +1,0 @@
-body {
-    font-family: 'tan-nimbus-2-webfont';
-}
-
-@font-face {
-    font-family: 'tan-nimbus-2-webfont';
-    src: url('/webfontkit-20250823-064711/tan-nimbus-2-webfont.woff2') format('woff2');
-}
