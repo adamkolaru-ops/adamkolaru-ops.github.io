@@ -4,8 +4,7 @@ body {
 
 @font-face {
   font-family: 'tan-nimbus-2-webfont';
-  src: url('/mojefonty/webfontkit-20250823-064711/tan-nimbus-2-webfont.woff2') format('woff2'),
-       url('/mojefonty/webfontkit-20250823-064711/tan-nimbus-2-webfont.woff') format('woff');
+  src: url('/mojefonty/webfontkit-20250823-064711/tan-nimbus_2-webfont.woff2') format('woff2');
 }
 
 h1 {
