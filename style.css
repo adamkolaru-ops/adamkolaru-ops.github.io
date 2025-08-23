@@ -1,13 +1,14 @@
-body {
-    font-family: 'tan-nimbus-2-webfont', sans-serif;
-}
-
 @font-face {
   font-family: 'tan-nimbus-2-webfont';
-  src: url('/mojefonty/webfontkit-20250823-064711/tan-nimbus_2-webfont.woff2') format('woff2');
+  /* REMOVE the leading slash from the path */
+  src: url('mojefonty/webfontkit-20250823-064711/tan-nimbus_2-webfont.woff2') format('woff2');
+}
+
+body {
+  font-family: 'tan-nimbus-2-webfont', sans-serif;
 }
 
 h1 {
-    font-family: 'tan-nimbus-2-webfont', sans-serif;
-    font-weight: normal;
+  font-family: 'tan-nimbus-2-webfont', sans-serif;
+  font-weight: normal;
 }
